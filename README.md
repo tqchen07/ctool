@@ -1,2 +1,2 @@
 # descriptive
-create descriptive tables
+Functions to create descriptive tables
