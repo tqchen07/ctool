@@ -1,4 +1,4 @@
-#' Generate html table of descritive statistics for data
+#' Generate html table of descriptive statistics for data
 #'
 #' @param dataframe Data to be used
 #' @param num       A vector of numeric variable names
