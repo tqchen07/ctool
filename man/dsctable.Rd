@@ -2,7 +2,7 @@
 % Please edit documentation in R/dsctable.R
 \name{dsctable}
 \alias{dsctable}
-\title{Generate html table of descritive statistics for data}
+\title{Generate html table of descriptive statistics for data}
 \usage{
 dsctable(dataframe, num, char, grp, title = "Table", label.option = F,
   mean.option = F, option = F, digit = 1, num.test = "None",
